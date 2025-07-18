@@ -1,20 +1,24 @@
-main {
-    color: blue;
+body {
+    background-color: green;
     font-size: 14px;
 }
 
-.list {
+fieldset {
+    background-color: white;
+}
+
+p {
+    font-weight: bold;
     font-size: 18px;
 }
 
-.war-and-peace, .Decembrists {
-    font-weight: bold;
+input {
+    border-color: gray;
+    border-radius: 4px;
 }
 
-.anna {
-    color: red;
-}
-
-.years {
-    color: green;
+button {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
 }
